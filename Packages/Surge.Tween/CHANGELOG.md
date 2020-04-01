@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/adrenak/Surge.Tween/compare/v1.0.0...v1.0.1) (2020-04-01)
+
+
+### Bug Fixes
+
+* Update README from the upm-template content to something relevant ([fd429ba](https://github.com/adrenak/Surge.Tween/commit/fd429ba98e18b1a3edf2c558bf9a96a7413d8d1e))
+
 # 1.0.0 (2020-04-01)
 
 
