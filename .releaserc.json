@@ -9,7 +9,7 @@
     }],
     ["@semantic-release/npm", { 
       "npmPublish": false,
-      "pkgRoot":"Packages/Surge.Tween/package.json"
+      "pkgRoot":"Packages/Surge.Tween"
     }],
     ["@semantic-release/git", {
       "assets": ["Packages/Surge.Tween/package.json", "Packages/Surge.Tween/CHANGELOG.md"],
