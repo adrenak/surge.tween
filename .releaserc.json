@@ -5,14 +5,14 @@
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", { 
       "preset": "angular",
-      "changelogFile":"PATH_TO_YOUR_CHANGELOG.MD"
+      "changelogFile":"Packages/Surge.Tween/CHANGELOG.md"
     }],
     ["@semantic-release/npm", { 
       "npmPublish": false,
-      "pkgRoot":"PATH_TO_PARENT_DIRECTORY_OF_PACKAGE.JSON"
+      "pkgRoot":"Packages/Surge.Tween/package.json"
     }],
     ["@semantic-release/git", {
-      "assets": ["PATH_TO_YOUR_PACKAGE.JSON", "PATH_TO_YOUR_CHANGELOG.MD"],
+      "assets": ["Packages/Surge.Tween/package.json", "Packages/Surge.Tween/CHANGELOG.md"],
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
