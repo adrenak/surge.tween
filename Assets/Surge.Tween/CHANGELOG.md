@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adrenak/Surge.Tween/compare/v1.0.1...v1.0.2) (2020-04-07)
+
+
+### Bug Fixes
+
+* Move project files to Assets/ ([0a04bb1](https://github.com/adrenak/Surge.Tween/commit/0a04bb166a4d81e90912e32e274c92192efd87d5))
+
 ## [1.0.1](https://github.com/adrenak/Surge.Tween/compare/v1.0.0...v1.0.1) (2020-04-01)
 
 
