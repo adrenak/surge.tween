@@ -1,3 +1,10 @@
+## [1.0.48](https://github.com/adrenak/Surge.Tween/compare/v1.0.2...v1.0.48) (2022-01-31)
+
+### Bug Fixes
+
+* Updated to 1.0.48
+
+
 ## [1.0.2](https://github.com/adrenak/Surge.Tween/compare/v1.0.1...v1.0.2) (2020-04-07)
 
 
